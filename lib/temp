@@ -1,0 +1,4 @@
+ Icon(Icons.home, size: 30),
+            Icon(Icons.reviews, size: 30),
+            Icon(Icons.add, size: 30),
+            Icon(Icons.person,size:30),
